@@ -10,7 +10,7 @@ The goal of this assignment is to implement, evaluate, and deploy multiple machi
 - **Target Variable:** `target` (Binary: 1 = Churned, 0 = Retained)
 
 ## c. GitHub Repository Link
-[https://github.com/2025ac05627/AP-Machine-Learning-Assignment-2/tree/main](https://github.com/2025ac05627/AP-Machine-Learning-Assignment-2/tree/main)
+[https://github.com/2025ac05628/AP-Machine-Learning-Assignment-2/tree/main](https://github.com/2025ac05628/AP-Machine-Learning-Assignment-2/tree/main)
 
 ## d. Models Used & Performance Evaluation
 
